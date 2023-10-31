@@ -1,0 +1,13 @@
+Package: rvatData
+Type: Package
+Title: Example data accompanying the RVAT package.
+Version: 0.1.0
+Authors@R: c(person(given='Kevin',family='Kenna',email='K.P.Kenna@umcutrecht.nl',role = c("aut", "cre")),person(given='Paul',family='Hop',email='P.J.Hop-2@umcutrecht.nl',role = c("aut")))
+Description: Example data accompanying the RVAT package. Used in examples and tutorials. 
+License: GNU GPLv3
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.4.1), SummarizedExperiment,S4Vectors,rvat
+Remotes:
+    kennalab/rvat
+RoxygenNote: 7.1.2
