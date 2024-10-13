@@ -10,4 +10,4 @@ LazyData: true
 Depends: R (>= 3.4.1), SummarizedExperiment,S4Vectors,rvat
 Remotes:
     kennalab/rvat
-RoxygenNote: 7.1.2
+RoxygenNote: 7.3.2
