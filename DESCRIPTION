@@ -7,7 +7,11 @@ Description: Example data accompanying the RVAT package. Used in examples and tu
 License: GNU GPLv3
 Encoding: UTF-8
 LazyData: true
-Depends: R (>= 3.4.1), SummarizedExperiment,S4Vectors,rvat
+Depends: 
+    R (>= 3.5),
+    SummarizedExperiment,
+    S4Vectors,
+    rvat
 Remotes:
     kennalab/rvat
 RoxygenNote: 7.3.2
